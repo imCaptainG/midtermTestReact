@@ -1,13 +1,13 @@
 import { Component } from "react";
 
-export default class TodoList extends Component{
+export default class NewShop extends Component{
 
 
 
 
     render() {
         return (
-            <h1>New Product</h1>
+            <h1>New shop</h1>
         )
         
     }
